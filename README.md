@@ -2,7 +2,12 @@
 
 # ⚡ 0x000 / Silence
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=Silence&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+```txt
+  ____ ___  ___   ___  
+ / ___/ _ \|_ _| / _ \ 
+| |  | | | || | | | | |
+| |__| |_| || | | |_| |
+ \____\___/|___| \___/
 
 ### <>& with passion & nicotin
 
