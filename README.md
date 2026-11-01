@@ -1,7 +1,3 @@
-## Hi there 👋
-
-# Hey, I'm Silence 
-
 <div align="center">
 
 # ⚡ 0x000 / Silence
