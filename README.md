@@ -17,5 +17,9 @@ Dev & Tech Enthusiast | Python, Web Development & Scripting
 ---
 
 ### 📊 GitHub Stats
-![Silence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silenceco&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silenceco&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=silenceco&show_icons=true&theme=radical&hide_border=true" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenceco&layout=compact&theme=radical&hide_border=true" />
+</p>
