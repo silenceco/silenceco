@@ -19,3 +19,13 @@
 | **Systems & Setup** | `Configured` | Linux, Git, VS Code |
 
 ---
+
+### 🚀 What I'm Working On
+
+| Project / Field | Type | Status | Access |
+| :--- | :--- | :--- | :--- |
+| **Automation & Custom Bots** | Python / Discord API | `Active` | 🔒 Private |
+| **Web Infrastructure & Dashboards** | Frontend & UI | `In Development` | 🔒 Private |
+| **System & Scripting Utilities** | Python & Bash | `Maintained` | 🔒 Private |
+
+---
